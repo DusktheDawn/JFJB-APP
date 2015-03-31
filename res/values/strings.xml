@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JFJB-APPa</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_welcome">JFJB-APP</string>
+    <string name="img_content_desc">图片</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_header_hint_normal">上拉刷新</string>
+    <string name="xlistview_header_last_time">上次更新时间</string>
+    <string name="urticle_title">文章标题</string>
+ 
+</resources>
